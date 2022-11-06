@@ -1,0 +1,52 @@
+/* Rashad Long CSS document*/
+body{
+    background:black;
+    color: rgba(255, 0, 0, 0.884);
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:x-large;
+    line-height: 200%;
+}
+
+hr{
+    height: 5px;
+    background-color:green;
+}
+
+a:link{
+    color:rgba(255, 0, 0, 0.884);
+}
+
+a:visited{
+    color: green;
+}
+
+a:active{
+    color:rgba(255, 0, 0, 0.884);
+}
+
+a:hover{
+    font-size: 150%;    
+    text-decoration:none;
+}
+
+ol{
+    text-align: left;
+}
+
+ol li a:hover img {
+    transform: scale(6.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+table tr{
+    border-style:inset;
+    border-color: green;    
+}
+
+table td{
+    border-style:inset;
+    border-color:green;
+}
+    
+
